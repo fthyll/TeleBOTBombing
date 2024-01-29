@@ -9,7 +9,7 @@
 2. Navigate to the project directory:
 
    ```bash
-   cd telegram-photo-sender
+   cd TeleBOTBombing or paste on Console
    ```
 
 3. Edit the script (`send-photo.js`) and replace the following placeholders with your actual values:

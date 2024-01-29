@@ -12,7 +12,7 @@
    cd TeleBOTBombing or paste on Console
    ```
 
-3. Edit the script (`send-photo.js`) and replace the following placeholders with your actual values:
+3. Edit the script (`Telegram Bot API.js`) and replace the following placeholders with your actual values:
 
    - `YOUR_BOT_TOKEN`: Replace with your Telegram bot token.
    - `YOUR_CHAT_ID`: Replace with the chat ID where you want to send the photo.
@@ -22,7 +22,7 @@ The script will send the specified photo to the provided Telegram chat at regula
 
 ## Configuration
 
-You can customize the script by adjusting the values in the `send-photo.js` file, such as the delay between photo sending.
+You can customize the script by adjusting the values in the `Telegram Bot API.js` file, such as the delay between photo sending.
 
 ## Contributing
 

@@ -3,7 +3,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/telegram-photo-sender.git
+   git clone https://github.com/fthyll/TeleBOTBombing
    ```
 
 2. Navigate to the project directory:
